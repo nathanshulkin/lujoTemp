@@ -19,7 +19,7 @@ const photoCard = document.createElement('div');
 photoCard.setAttribute('class', 'card');
 
 const photo = document.createElement('img');
-photo.src="Lujo_white_FINAL-02.png";
+photo.src="LUJO_white_FINAL-02.png";
 photoCard.appendChild(photo);
 
 const text = document.createElement('p');
